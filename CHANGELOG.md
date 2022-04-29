@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.3.0
+
+### Minor Changes
+
+- [#167](https://github.com/changesets/action/pull/167) [`993a0a0`](https://github.com/changesets/action/commit/993a0a090df78cee07481d3886dcd8b29deb9567) Thanks [@dmregister](https://github.com/dmregister)! - Added `pullRequestNumber` to the action's outputs
+
 ## 1.2.2
 
 ### Patch Changes
